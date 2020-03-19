@@ -1,7 +1,5 @@
 # Welcome to jscholl23 's page
 
-[Edit on GitHub](https://github.com/jscholl23/jscholl23.github.io/edit/master/index.md)
-
 Here are some things I think are interesting.
 
 ## List of stuff
@@ -12,14 +10,15 @@ Here are some things I think are interesting.
 - #### [_test html_](https://jscholl23.github.io/template.html)
 
 
-- [x] Lorem ipsum dolor sit amet...
+[x] Lorem ipsum dolor sit amet...
 
 
-**Bold** and _Italic_ and `Code` text
 
+This is me!
 ![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
 
 
+**Bold** and _Italic_ and `Code` text
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
