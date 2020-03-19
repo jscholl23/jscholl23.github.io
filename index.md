@@ -13,15 +13,14 @@ Here are some things I think are interesting.
 - ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
 - #### _Scouts_
 
- ![basketball|225x222,20%](assets/basketball.jpg)
 
 - [ ] Make to do list
-- [x] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [x] Lorem ipsum dolor sit amet...
 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
+![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
