@@ -6,32 +6,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some things I think interesting.
 
 ## List of stuff
 - ### [Robotics Stuff](https://www.thebluealliance.com/team/60/2019)
 - ### [Swim Stuff](https://www.yourswimlog.com/)
-- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
+- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/) ![basketball](assets/basketball.jpg)
+- #### _Scouts_
 
-
-- Bulleted
-- List
+[] Make to do list
+[x] Copyright (c) 2020 James Scholl All Rights Reserved.
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![flag](https://github.com/jscholl23/jscholl23.github.io/blob/master/flag.jpg)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of flagstaff](https://jscholl23.github.com/images/flag.jpg)
+[Link](url) and ![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jscholl23/jscholl23.github.io/settings). 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jscholl23/jscholl23.github.io/settings).
 
 ## Cool Vid
 Watch Team 60 on the Red Alliance during this match
