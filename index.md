@@ -10,8 +10,10 @@ Here are some things I think are interesting.
 ## List of stuff
 - ### [Robotics Stuff](https://jscholl23.github.io/frc)
 - ### [Swim Stuff](https://www.yourswimlog.com/)
-- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/) ![basketball|225x222,20%](assets/basketball.jpg)
+- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
 - #### _Scouts_
+
+ ![basketball|225x222,20%](assets/basketball.jpg)
 
 - [ ] Make to do list
 - [x] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
