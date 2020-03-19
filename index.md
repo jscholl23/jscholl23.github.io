@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to jscholl23 's page
 
 You can use the [editor on GitHub](https://github.com/jscholl23/jscholl23.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 Swim Stuff
+## Header 2 Robotics Stuff
+### Header 3 Coaching Stuff
 
 - Bulleted
 - List
