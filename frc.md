@@ -1,6 +1,6 @@
 layout: page
-title: "frc"
-permalink: https://jscholl23.github.io/frc
+title: "Robotics"
+permalink: /frc/
 
 
 ### FIRST Robotics Competition
