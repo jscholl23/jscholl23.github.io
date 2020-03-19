@@ -1,9 +1,6 @@
 # Welcome to jscholl23 's page
 
-You can use the [editor on GitHub](https://github.com/jscholl23/jscholl23.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-### Markdown
+[Edit on GitHub](https://github.com/jscholl23/jscholl23.github.io/edit/master/index.md)
 
 Here are some things I think are interesting.
 
