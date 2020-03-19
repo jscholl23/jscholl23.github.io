@@ -11,7 +11,7 @@ Here are some things I think interesting.
 ## List of stuff
 - ### [Robotics Stuff](https://www.thebluealliance.com/team/60/2019)
 - ### [Swim Stuff](https://www.yourswimlog.com/)
-- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/) ![basketball](assets/basketball.jpg)
+- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/) ![basketball|225x222,20%](assets/basketball.jpg)
 - #### _Scouts_
 
 [] Make to do list
