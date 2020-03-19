@@ -23,6 +23,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![flag](https://github.com/jscholl23/jscholl23.github.io/blob/master/flag.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of flagstaff](https://jscholl23.github.com/images/flag.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
