@@ -5,23 +5,12 @@ permalink: /frc/
 
 ### FIRST Robotics Competition
 
-Here are some things I think interesting.
+Combining the excitement of sport with the rigors of science and technology. We call FIRST Robotics Competition the ultimate Sport for the Mind. High-school student participants call it “the hardest fun you’ll ever have.”
 
-## List of stuff
-- ### [Robotics Stuff](https://www.thebluealliance.com/team/60/2019)
-- ### [Swim Stuff](https://www.yourswimlog.com/)
-- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/) ![basketball|225x222,20%](assets/basketball.jpg)
-- #### _Scouts_
+Under strict rules, limited time and resources, teams of students are challenged to raise funds, design a team "brand," hone teamwork skills, and build and program industrial-size robots to play a difficult field game against like-minded competitors. It’s as close to real-world engineering as a student can get. Volunteer professional mentors lend their time and talents to guide each team. Each season ends with an exciting FIRST Championship.
 
-[] Make to do list
-[x] Copyright (c) 2020 James Scholl All Rights Reserved.
+## Resources
+- ### [The Blue Alliance](https://www.thebluealliance.com/team/60/2019)
+- ### [FIRST Vision and Mission](https://www.firstinspires.org/about/vision-and-mission)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![avatar](assets/robots)
