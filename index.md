@@ -8,11 +8,10 @@ Here are some things I think are interesting.
 - ### [Robotics Stuff](https://jscholl23.github.io/frc)
 - ### [Swim Stuff](https://www.yourswimlog.com/)
 - ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
-- #### [_Scouts_](https://jscholl23.github.io/scouts)
-- ### [test html](https://jscholl23.github.io/template.html)
+- ### [Scouts](https://jscholl23.github.io/scouts)
+- #### [_test html_](https://jscholl23.github.io/template.html)
 
 
-- [ ] Make to do list
 - [x] Lorem ipsum dolor sit amet...
 
 
@@ -29,4 +28,4 @@ Watch Team 60 on the Red Alliance during this match
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F59HtDCnYes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Copyright (c) 2020 James Scholl All Rights Reserved.
+Copyright (c) 2020 James Scholl
