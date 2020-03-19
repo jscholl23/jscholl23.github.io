@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## List of stuff
 - ### [Robotics Stuff](https://www.thebluealliance.com/team/60/2019)
 - ### [Swim Stuff](https://www.yourswimlog.com/)
-- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
+- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/) ![basketball](assets/basketball.jpg)
 
 
 - Bulleted
@@ -22,9 +22,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![flag](https://github.com/jscholl23/jscholl23.github.io/blob/master/flag.jpg)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of flagstaff](https://jscholl23.github.com/images/flag.jpg)
+[Link](url) and ![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
