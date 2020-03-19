@@ -1,5 +1,5 @@
 
-### FIRST Robotics Competition
+## FIRST Robotics Competition
 
 #### [Home](https://jscholl23.github.io/)
 

@@ -8,7 +8,8 @@ Here are some things I think are interesting.
 - ### [Robotics Stuff](https://jscholl23.github.io/frc)
 - ### [Swim Stuff](https://www.yourswimlog.com/)
 - ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
-- #### _Scouts_
+- #### [_Scouts_](https://jscholl23.github.io/scouts)
+- ### [test html](https://jscholl23.github.io/template.html)
 
 
 - [ ] Make to do list
