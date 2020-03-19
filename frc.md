@@ -9,4 +9,4 @@ Under strict rules, limited time and resources, teams of students are challenged
 - ### [The Blue Alliance](https://www.thebluealliance.com/team/60/2019)
 - ### [FIRST Vision and Mission](https://www.firstinspires.org/about/vision-and-mission)
 
-![avatar](assets/robots.jpg)
+![Robotics](assets/robots.jpg)
