@@ -21,5 +21,5 @@ Team 60's robot this year has a two flywheel PID controlled shooter with target 
 - ### [The Blue Alliance](https://www.thebluealliance.com/team/60/2019)
 - ### [FIRST Vision and Mission](https://www.firstinspires.org/about/vision-and-mission)
 
-## Last year's robot HAL playing defense in flagstaff.
+#### Last year's robot HAL playing defense in flagstaff.
 ![Robotics](assets/robots.jpg)
