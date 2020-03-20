@@ -1,14 +1,8 @@
 
-<head>
-  <meta charset="utf-8" />
-  <title>jscholl23 - htmltests </title>
-  <meta name="viewport" content="initial-scale=1" />
-  <link rel="icon" href="assets/clawsmall.png" />
-</head>
-
 ## FIRST Robotics Competition
 
 #### [Home](https://jscholl23.github.io/)
+#### [Alt-Home](https://jscholl23.github.io/alt-home.html)
 
 Combining the excitement of sport with the rigors of science and technology. We call FIRST Robotics Competition the ultimate Sport for the Mind. High-school student participants call it “the hardest fun you’ll ever have.”
 
