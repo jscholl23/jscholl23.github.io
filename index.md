@@ -5,10 +5,9 @@ Here are some things I think are interesting.
 ## List of stuff
 - ### [Robotics Stuff](https://jscholl23.github.io/frc)
 - ### [Swim Stuff](https://jscholl23.github.io/swim)
-- ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
 - ### [Scouts](https://jscholl23.github.io/scouts)
 - #### [Basketball](https://jscholl23.github.io/basketball.html)
-- #### [_alt-home_](https://jscholl23.github.io/alt-home.html)
+- #### [_alt-home_](https://jscholl23.github.io/index.html)
 
 
 Lorem ipsum dolor sit amet... :simple_smile:

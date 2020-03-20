@@ -2,7 +2,7 @@
 ## FIRST Robotics Competition
 
 #### [Home](https://jscholl23.github.io/)
-#### [Alt-Home](https://jscholl23.github.io/alt-home.html)
+#### [Alt-Home](https://jscholl23.github.io/index.html)
 
 Combining the excitement of sport with the rigors of science and technology. We call FIRST Robotics Competition the ultimate Sport for the Mind. High-school student participants call it “the hardest fun you’ll ever have.”
 
