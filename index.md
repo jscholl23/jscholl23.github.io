@@ -10,7 +10,7 @@ Here are some things I think are interesting.
 - #### [_alt-home_](https://jscholl23.github.io/indexes.html)
 
 
-Lorem ipsum dolor sit amet... :smile
+Lorem ipsum dolor sit amet... :smile:
 
 
 
