@@ -7,7 +7,7 @@ Here are some things I think are interesting.
 - ### [Swim Stuff](https://jscholl23.github.io/swim)
 - ### [Scouts](https://jscholl23.github.io/scouts)
 - #### [Basketball](https://jscholl23.github.io/basketball.html)
-- #### [_alt-home_](https://jscholl23.github.io/index.html)
+- #### [_alt-home_](https://jscholl23.github.io/indexes.html)
 
 
 Lorem ipsum dolor sit amet... :simple_smile:
