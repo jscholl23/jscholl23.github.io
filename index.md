@@ -10,7 +10,7 @@ Here are some things I think are interesting.
 - #### [_test html_](https://jscholl23.github.io/template.html)
 
 
-[x] Lorem ipsum dolor sit amet...
+Lorem ipsum dolor sit amet... :simple_smile:
 
 
 
@@ -18,7 +18,6 @@ This is me!
 ![avatar](https://avatars3.githubusercontent.com/u/44987862?s=460&v=4)
 
 
-**Bold** and _Italic_ and `Code` text
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 

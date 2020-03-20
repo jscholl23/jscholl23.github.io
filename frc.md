@@ -1,3 +1,4 @@
+
 <head>
   <meta charset="utf-8" />
   <title>jscholl23 - htmltests </title>
@@ -16,6 +17,9 @@ Under strict rules, limited time and resources, teams of students are challenged
 This year's [challenge](https://www.firstinspires.org/robotics/frc/game-and-season), Infinite Recharge, is sponsored by Disney.
 
 In INFINITE RECHARGE, two alliances work to protect FIRST City from approaching asteroids caused by a distant space skirmish. Each Alliance, along with their trusty droids, race to collect and score Power Cells in order to energize their Shield Generator for maximum protection. To activate stages of the Shield Generator, droids manipulate their Control Panels after scoring a specific number of Power Cells. Near the end of the match, droids race to their Rendezvous Point to get their Shield Generator operational in order to protect the city!
+
+## Game Reveal Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmiYWTmFRVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resources
 - ### [The Blue Alliance](https://www.thebluealliance.com/team/60/2019)
