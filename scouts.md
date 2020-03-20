@@ -3,7 +3,13 @@
 
 #### [Home](https://jscholl23.github.io/)
 
-Definition of Eagle Scout by [Merriam-Webster](https://www.merriam-webster.com/dictionary/Eagle%20Scout).
+I built a skittle sorter for the fair 2 years ago. Here are [directions](https://beta.ivc.no/wiki/index.php/Skittles_M%26M%27s_Sorting_Machine) on how you can build one for yourself.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H7HTQai7Wwg?controls=0&amp;start=37" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+#### Definition of Eagle Scout by [Merriam-Webster](https://www.merriam-webster.com/dictionary/Eagle%20Scout).
 
 1. a Boy Scout who has reached the highest level of achievement in scouting.
 2. a straight-arrow and self-reliant man.
