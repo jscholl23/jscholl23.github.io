@@ -9,5 +9,5 @@
 
 
 The Olympic trials are this summer _Sun, Jun 21, 2020 – Sun, Jun 28, 2020._    
-Caleb Dressel and Regan Smith have both qualified for 7 events.
+Caeleb Dressel and Regan Smith have both qualified for 7 events.
 ![Olympic](assets/Olympic-rings.jpg)
