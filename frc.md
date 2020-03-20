@@ -1,11 +1,9 @@
-<html lang="en">
 <head>
   <meta charset="utf-8" />
   <title>jscholl23 - htmltests </title>
   <meta name="viewport" content="initial-scale=1" />
   <link rel="icon" href="assets/clawsmall.png" />
 </head>
-</html>
 
 ## FIRST Robotics Competition
 

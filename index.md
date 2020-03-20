@@ -4,7 +4,7 @@ Here are some things I think are interesting.
 
 ## List of stuff
 - ### [Robotics Stuff](https://jscholl23.github.io/frc)
-- ### [Swim Stuff](https://www.yourswimlog.com/)
+- ### [Swim Stuff](https://jscholl23.github.io/swim)
 - ### [Coaching Stuff](https://www.basketballforcoaches.com/3-out-2-in-motion-offense/)
 - ### [Scouts](https://jscholl23.github.io/scouts)
 - #### [_test html_](https://jscholl23.github.io/template.html)
