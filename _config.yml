@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: jscholl23
 description: Collection of cool stuff related to my hobbies
+
+plugins:
+  - jekyll-maps
