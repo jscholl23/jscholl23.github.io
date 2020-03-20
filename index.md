@@ -6,11 +6,12 @@ Here are some things I think are interesting.
 - ### [Robotics Stuff](https://jscholl23.github.io/frc)
 - ### [Swim Stuff](https://jscholl23.github.io/swim)
 - ### [Scouts](https://jscholl23.github.io/scouts)
-- #### [Basketball](https://jscholl23.github.io/basketball.html)
+- #### [Basketball](https://jscholl23.github.io/basketball)
 - #### [_alt-home_](https://jscholl23.github.io/indexes.html)
 
 
-Lorem ipsum dolor sit amet... :smile:
+Lorem ipsum dolor sit amet...
+:smile:
 
 
 
