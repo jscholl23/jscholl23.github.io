@@ -11,7 +11,6 @@ Here are some things I think are interesting.
 
 
 Lorem ipsum dolor sit amet...
-:smile:
 
 
 
