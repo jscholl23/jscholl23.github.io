@@ -1,4 +1,10 @@
 
+<nav id="mainNav">
+  <a href="https://jscholl23.github.io/"
+  ><img height="40" src="https://avatars3.githubusercontent.com/u/44987862?s=460&v=4" alt="home"
+  /></a>
+</nav>
+
 ## Scouts
 
 #### [Home](https://jscholl23.github.io/)
